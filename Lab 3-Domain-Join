@@ -1,0 +1,10 @@
+# Lab 3 – Join Computer to Domain
+
+## Steps
+
+1. Open Settings
+2. System
+3. About
+4. Rename this PC (Advanced)
+5. Select Domain
+6. Enter lab.local
